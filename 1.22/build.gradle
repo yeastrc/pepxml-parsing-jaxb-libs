@@ -1,0 +1,25 @@
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+sourceSets {
+    main {
+        java {
+            srcDirs 'src'
+        }
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
+
+jar {
+    baseName 'yrc-pepxml-jaxb-1.22'
+}
