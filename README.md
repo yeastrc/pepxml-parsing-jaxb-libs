@@ -1,4 +1,4 @@
-###PepXML JAXB Build Process###
+###PepXML JAXB Build Process
 
 1. Edit PepXML schema file (e.g., pepXML_v120.xsd)
 
