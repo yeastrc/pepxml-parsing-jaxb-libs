@@ -1,0 +1,1 @@
+c:\apache-maven-3.6.1\bin\mvn install:install-file -DgroupId=org.yeastrc.pepxml_jaxb_libs -DartifactId=yrc-pepxml-jaxb -Dversion=1.22.2 -Dfile=1.22\build\libs\yrc-pepxml-jaxb.jar -Dpackaging=jar -DgeneratePom=true -DlocalRepositoryPath=.  -DcreateChecksum=true
